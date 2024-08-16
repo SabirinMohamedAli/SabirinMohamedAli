@@ -48,5 +48,5 @@ I am a passionate developer with a focus on web and mobile application developme
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamedAli&layout=compact)
-![GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
+
 
