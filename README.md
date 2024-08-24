@@ -40,7 +40,9 @@ I am a passionate developer with a focus on web and mobile application developme
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-</p>### GitHub Stats:
+</p>
+
+### GitHub Stats:
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabirinMohamedAli&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
 </p>
