@@ -5,7 +5,7 @@
 I am a passionate developer with a focus on web and mobile application development. I love working with new technologies and constantly improving my skills.
 
 - 🔭 I’m currently working on various projects involving **React**, **Node.js**, and **Spring Boot**.
-- 🌱 I’m currently learning **TypeScript**, **Next.js**, and **Redux Toolkit**.
+- 🌱 I’m currently learning **TypeScript**, **Next.js**, and **mern stack**.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Spring Boot**.
 - 📫 How to reach me: thaprinmohamett1333@gmail.com
 - ⚡ Fun fact: I enjoy exploring new technologies and building interesting projects.
