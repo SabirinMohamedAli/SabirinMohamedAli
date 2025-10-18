@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sabirin Mohamed Ali 👋</h1>
-<h3 align="center">💻 Passionate Software Developer | MERN Stack & Java Developer |   Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | Aspiring Mobile App Developer | Problem Solver | Creating Innovative Tech Solutions </h3>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGEzcWtmZGZ5cGptaDRrbGdpOXVvNHF2cHhnYTAzb2hianU1NnRueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eDDrmbtY0aSAII8ffT/giphy.gif" alt="Coding gif" width="350">
