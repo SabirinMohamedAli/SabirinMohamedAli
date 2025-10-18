@@ -1,72 +1,47 @@
-# Hi there, I'm Sabirin Mohamed Ali 👋
+<h1 align="center">Hi 👋, I'm Sabirin Mohamed Ali</h1>
+<h3 align="center">💻 Passionate Software Developer | MERN Stack & Java Developer | Designer & Problem Solver</h3>
 
-## About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I am a passionate developer with a focus on web and mobile application development. I love working with new technologies and constantly improving my skills.
+---
 
-- 🔭 I’m currently working on various projects involving **React**, **Node.js**, and **Spring Boot**.
-- 🌱 I’m currently learning **TypeScript**, **Next.js**
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Spring Boot**.
-- 📫 How to reach me: thaprinmohamett1333@gmail.com
-- ⚡ Fun fact: I enjoy exploring new technologies and building interesting projects.
+### 🧩 About Me
+- 🔭 I'm currently working on **real-world projects** using **React, Node.js, and MongoDB**
+- 🌱 I'm learning **TypeScript, Next.js, and Mobile App Development (Flutter)**
+- 💡 I’m passionate about building **impactful systems** like donation, school management, and community apps
+- 🎯 My goal is to become a **top-level full-stack developer** and create **beautiful user experiences**
+- 🕌 Muslim | 💬 Speaks Somali & English | 🌍 Based in Somalia
 
-### Languages and Tools:
+---
 
+### 🧠 Languages & Tools
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,typescript,java,tailwind,figma,git,github,vscode,python" />
 </p>
 
-### GitHub Stats:
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SabirinMohamedAli&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
+---
+
+### 🔥 GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabirinMohamedAli&theme=radical" alt="streak stats" />
 </p>
 
-## Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SabirinMohamedAli&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamedAli&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabirinMohamedAli&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
 
+### 🌐 Connect With Me
+<p align="left">
+  📧 **thaprinmohamett1333@gmail.com**  
+  🌸 GitHub: [SabirinMohamedAli](https://github.com/SabirinMohamedAli)
+</p>
+
+---
+
+> 💬 “Code is my art, creativity is my tool, and technology is my way to build a better future.” — Sabirin Mohamed Ali
