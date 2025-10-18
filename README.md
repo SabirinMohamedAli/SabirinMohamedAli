@@ -7,16 +7,17 @@
 
 ---
 
-## 👩‍💻 About Me
+🧩 About Me
 
-I am a passionate developer with a focus on **web** and **mobile application development**.  
-I love exploring new technologies and building meaningful digital experiences that make an impact.  
+🔭 I'm currently working on real-world projects using React, Node.js, and MongoDB.
 
-- 🔭 I’m currently working on projects involving **React**, **Node.js**, and **Spring Boot**.  
-- 🌱 I’m currently learning **TypeScript** and **Next.js**.  
-- 💬 Ask me about **JavaScript**, **React**, **Node.js**, and **Spring Boot**.  
-- 📫 Reach me at **thaprinmohamett1333@gmail.com**  
-- ⚡ Fun fact: I enjoy creating beautiful UI designs and solving real-world problems through code.  
+🌱 I'm learning TypeScript, Next.js, and Mobile App Development (Flutter).
+
+💡 I’m passionate about building innovative and impactful systems that solve real-world problems.
+
+🎯 My goal is to become a top-tier full-stack developer and craft beautiful, user-centered experiences.
+
+🕌 Muslim | 💬 Fluent in Somali & English | 🌍 Based in Somalia  
 
 ---
 
