@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Sabirin Mohamed Ali 👋</h1>
 <h3 align="center">💻 Passionate Software Developer | MERN Stack & Java Developer |   Problem Solver</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gseSH3fVSQDOauQ/giphy.gif" alt="Girl Coding GIF" width="350">
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="350"> </p>
 
 
 
