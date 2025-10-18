@@ -2,20 +2,21 @@
 <h3 align="center">💻 Passionate Software Developer | MERN Stack & Java Developer |   Problem Solver</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding gif" width="350">
+  <img src="https://media.giphy.com/media/26gseSH3fVSQDOauQ/giphy.gif" alt="Girl Coding GIF" width="350">
 </p>
+
 
 ---
 
 🧩 About Me
 
-🔭 I'm currently working on real-world projects using React, Node.js, and MongoDB.
+🔭 I'm currently working on real-world projects using React, Node.js, and MongoDB
 
-🌱 I'm learning TypeScript, Next.js, and Mobile App Development (Flutter).
+🌱 I'm learning TypeScript, Next.js, and Mobile App Development (Flutter)
 
-💡 I’m passionate about building innovative and impactful systems that solve real-world problems.
+💡 I’m passionate about building innovative and impactful systems that solve real-world problems
 
-🎯 My goal is to become a top-tier full-stack developer and craft beautiful, user-centered experiences.
+🎯 My goal is to become a top-tier full-stack developer and craft beautiful, user-centered experiences
 
 🕌 Muslim | 💬 Fluent in Somali & English | 🌍 Based in Somalia  
 
