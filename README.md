@@ -13,9 +13,8 @@
 
 ## 🧩 About Me
 
-- 🔭 Currently working on real-world projects using **React, Node.js, MongoDB**
-- 🌱 Learning **TypeScript**, **Next.js**, and **Flutter Mobile Development**
-- 💡 Passionate about building **clean UI/UX** and impactful systems
+- 🔭 Currently working with **Next.js, TypeScript, JavaScript, Node.js, MongoDB, PostgreSQL, and Prisma**
+- 💡 Passionate about building **innovative and impactful systems**
 - 🎯 My goal is to become a **top-tier full-stack developer**
 - 🕌 Muslim | 🌍 Based in Somalia | 💬 Fluent in Somali & English
 
