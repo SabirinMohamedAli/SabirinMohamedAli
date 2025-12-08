@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sabirin Mohamed Ali 👋</h1>
+<h1 align="center">Hi there, I'm Sabirin Mohamed Ali </h1>
 <h3 align="center">💻 Full Stack Developer | Aspiring Mobile App Developer | Problem Solver | Creating Innovative Tech Solutions </h3>
 
 <p align="center">
