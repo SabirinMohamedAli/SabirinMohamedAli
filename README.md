@@ -20,17 +20,12 @@
 
 ---
 
-## 🧰 Languages
+## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,java,spring,php,mysql,flutter,androidstudio,postman,git,github,vscode,intellij,tailwind" />
 </p>
 
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,prisma,spring,mysql,flutter,git,github,vscode,intellij,androidstudio,postman,tailwind" />
-</p>
 
 
 
